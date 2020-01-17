@@ -1,0 +1,7 @@
+C:\Users\antonio.guillemin\source\repos\State\Chain\bin\Debug\Chain.exe.config
+C:\Users\antonio.guillemin\source\repos\State\Chain\bin\Debug\Chain.exe
+C:\Users\antonio.guillemin\source\repos\State\Chain\bin\Debug\Chain.pdb
+C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.csproj.CoreCompileInputs.cache
+C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.exe
+C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.pdb
+C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.csprojAssemblyReference.cache
