@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\State\State\obj\Debug\State.csprojAssemb
 C:\Users\antonio.guillemin\source\repos\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\State\State\obj\Debug\State.exe
 C:\Users\antonio.guillemin\source\repos\State\State\obj\Debug\State.pdb
+C:\Eventos\ChainCommandState\State\State\bin\Debug\State.exe.config
+C:\Eventos\ChainCommandState\State\State\bin\Debug\State.exe
+C:\Eventos\ChainCommandState\State\State\bin\Debug\State.pdb
+C:\Eventos\ChainCommandState\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Eventos\ChainCommandState\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Eventos\ChainCommandState\State\State\obj\Debug\State.exe
+C:\Eventos\ChainCommandState\State\State\obj\Debug\State.pdb

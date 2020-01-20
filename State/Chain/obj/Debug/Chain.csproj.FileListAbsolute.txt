@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.csproj.CoreC
 C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.exe
 C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.pdb
 C:\Users\antonio.guillemin\source\repos\State\Chain\obj\Debug\Chain.csprojAssemblyReference.cache
+C:\Eventos\ChainCommandState\State\Chain\bin\Debug\Chain.exe.config
+C:\Eventos\ChainCommandState\State\Chain\bin\Debug\Chain.exe
+C:\Eventos\ChainCommandState\State\Chain\bin\Debug\Chain.pdb
+C:\Eventos\ChainCommandState\State\Chain\obj\Debug\Chain.csprojAssemblyReference.cache
+C:\Eventos\ChainCommandState\State\Chain\obj\Debug\Chain.csproj.CoreCompileInputs.cache
+C:\Eventos\ChainCommandState\State\Chain\obj\Debug\Chain.exe
+C:\Eventos\ChainCommandState\State\Chain\obj\Debug\Chain.pdb

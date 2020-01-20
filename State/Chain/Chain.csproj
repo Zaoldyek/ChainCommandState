@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseHandler.cs" />
+    <Compile Include="ConcreteHandler1.cs" />
+    <Compile Include="ConcreteHandler2.cs" />
+    <Compile Include="ConcreteHandler3.cs" />
+    <Compile Include="ConcreteHandler4.cs" />
+    <Compile Include="lHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

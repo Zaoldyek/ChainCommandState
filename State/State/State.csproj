@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivarState.cs" />
+    <Compile Include="Alarma.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="DesactivarState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
